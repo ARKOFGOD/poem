@@ -1,4 +1,6 @@
 The Rainbow has several colors namely:
 red
-blu 
+blue 
 green
+yellow
+indigo
